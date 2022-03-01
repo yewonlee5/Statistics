@@ -1,4 +1,4 @@
-# Week1 _ Introductory Statistics
+# Sampling distributions and t-test
 
 ## sampling distributions
 ```
